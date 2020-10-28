@@ -22,7 +22,7 @@ The website is filled with dummy text where needed.
 ## Setup/Installation Requirements
 
 To view the website, 
-* click [Anita's Website](https://patelnagendra1.github.io/IIITN-Canteen/)
+* click [IIITN's Canteen](https://patelnagendra1.github.io/IIITN-Canteen/)
 or 
 * copy the link https://patelnagendra1.github.io/IIITN-Canteen/paste it to your browser and load it.  
 
